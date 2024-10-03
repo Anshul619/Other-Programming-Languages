@@ -10,4 +10,4 @@
 # Sample Load Test for a microservice
 - Total 50 requests
 - 5 requests in parallel
-- 500ms in between each request
+- 500ms delay in between each request

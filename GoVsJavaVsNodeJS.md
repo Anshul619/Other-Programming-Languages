@@ -1,5 +1,4 @@
-
-# Various Languages
+# GoLang vs Java vs NodeJS
 
 | Feature           | :star: [GoLang](https://github.com/Anshul619/golang) | [Java](1_Java)                                                                             | [Node](NodeJs.md) (or Python)                                                                     |
 |-------------------|------------------------------------------------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
@@ -9,15 +8,6 @@
 | Scalability       | Highly scalable                                      | Complex, web-based, highly concurrent.                                                     | Speedy and scalable server-side.                                                                  |
 | Project Sizes     |                                                      | Best suited for complex, larger, web-based projects that need concurrency                  | Best suited for Smaller-sized projects.                                                           |
 | Web Applications  |                                                      | Highly concurrent applications, messaging, complex web applications.                       | Running scalable and faster applications, real-time collaborative applications (e.g. Google Docs) |
-
-
-# Language Types
-
-|             | Declarative Language                              | Imperative Language        |
-|-------------|---------------------------------------------------|----------------------------|
-| Description | Describe what you want                            | Describe a series of steps |
-| Debugging   | Easy to figure out whats going on "under the hood" |                            |
-| Example     | SQL                                               | Python                     |
 
 # References
 - [Ruby? Java? Golang?](https://www.gojek.io/blog/ruby-java-golang)

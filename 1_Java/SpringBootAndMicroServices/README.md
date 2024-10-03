@@ -3,7 +3,7 @@
 - Sprint boot is a Java-based spring framework used for Rapid Application Development (to build stand-alone microservices). 
 - It has an extra support of autoconfiguration and *embedded application server like tomcat*, jetty, etc.
 
-![](assests/SpringBootArchitecture.drawio.png)
+![](assets/SpringBootArchitecture.drawio.png)
 
 # Spring vs Spring Boot
 
@@ -24,7 +24,7 @@
 - Minimum configuration.
 - We don’t need to write any XML configuration, only a few annotations are required to do the configuration.
 
-![](assests/SpringBoot-Features.drawio.png)
+![](assets/SpringBoot-Features.drawio.png)
 
 # What are the Spring Boot key components?
 - Spring Boot auto-configuration.
@@ -125,7 +125,7 @@ logging.level.org.hibernate: ERROR
 
 # Microservices - How to develop, deploy microservices using Spring Boot?
 
-![](assests/Spring-Boot-MicroService-OnPerm.drawio.png)
+![](assets/Spring-Boot-MicroService-OnPerm.drawio.png)
 
 ## Zulu API Gateway
 - [Read more](../../../1_HLDDesignComponents/1_MicroServicesSOA/1_APIGateway/ZuluAPIGateway.md)
@@ -135,7 +135,7 @@ logging.level.org.hibernate: ERROR
 
 ## [Microservices - Testing strategy](https://www.simform.com/blog/microservice-testing-strategies/)
 
-![img.png](assests/testing_img.png)
+![img.png](assets/testing_img.png)
 
 ### End-to-End testing in Microservices
 - We usually treat the system as a black box while performing end-to-end tests. 
@@ -143,7 +143,7 @@ logging.level.org.hibernate: ERROR
 
 # [Domain-Driven Design](https://domaindrivendesign.org/ddd-domain-driven-design/)
 
-![img.png](assests/ddd_img.png)
+![img.png](assets/ddd_img.png)
 - Think Domain-Driven Design, and with that in mind, you divide the logical structure of your project not as classes only, but as domains also. 
 - This means all operations have got to do with the `Product` are located within the `ProductsController` and consequently within the `ProductsRepository`
 - Hence, its preferred each repository is equipped with operations to deal with some aspect of your project.
