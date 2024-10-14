@@ -12,3 +12,4 @@
 # References
 - [Ruby? Java? Golang?](https://www.gojek.io/blog/ruby-java-golang)
 - [Server-side I/O Performance: Node vs. PHP vs. Java vs. Go](https://www.toptal.com/back-end/server-side-io-performance-node-php-java-go)
+- [From JavaScript to Go: My Journey Transitioning from Node.js to Golang](https://shurutech.com/my-journey-transitioning-from-javascript-to-golang/)
