@@ -1,12 +1,12 @@
 # QA Tools
 
-| Tool Name                           | Type                     |
-|-------------------------------------|--------------------------|
-| [Postman](Postman.md)               | API Testing              |
-| [JMeter](https://jmeter.apache.org) | Load Testing Tools       |
-| [Flood](https://www.flood.io)       | Load Testing Tools       |
-| [Junit](../1_Java/JUnitTesting.md)  | Unit Testing             |
-| [Cypress](https://www.cypress.io/)  | Web applications testing |
+| Tool Name                                                                       | Type                     |
+|---------------------------------------------------------------------------------|--------------------------|
+| [Postman](Postman.md)                                                           | API Testing              |
+| [JMeter](https://jmeter.apache.org)                                             | Load Testing Tools       |
+| [Flood](https://www.flood.io)                                                   | Load Testing Tools       |
+| [Junit](https://github.com/Anshul619/Java-SpringBoot/blob/main/JUnitTesting.md) | Unit Testing             |
+| [Cypress](https://www.cypress.io/)                                              | Web applications testing |
 
 # Test Pyramid
 
